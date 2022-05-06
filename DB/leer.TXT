@@ -1,0 +1,3 @@
+Carpeta destinada para los archivos de la base de datos del proyecto
+*********
+añadir indicaciones si es necesario
